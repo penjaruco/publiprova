@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'Newsreader72pt-Light';
+   font-display: swap;
+   src: url('Newsreader72pt-Light/font.ttf');
+}
+@font-face {
+   font-family: 'Commissioner-ExtraBold';
+   font-display: swap;
+   src: url('Commissioner-ExtraBold/font.ttf');
+}
